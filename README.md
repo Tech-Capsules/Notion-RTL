@@ -1,6 +1,6 @@
 # Notion Arabic Support (Right-to-Left)
 
-<iframe width="1229" height="691" style="width: 100%;" src="https://www.youtube.com/embed/Y1zVple-Ihc" title="ازاي نخلي نوشن يدعم العربي | JS Mutation Observer API | Tech Capsules" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Video link: https://www.youtube.com/watch?v=Y1zVple-Ihc&t=1026s
 
 <hr />
 
