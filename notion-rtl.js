@@ -6,7 +6,7 @@ const observer = new MutationObserver((mutations) => {
       (n) => n.nodeType === Node.TEXT_NODE
     );
 
-    if (newNodes.length > 0) {
+    if (newNodes.length) {
       for (let i = 0; i < newNodes.length; i++) {
         const node = newNodes[i];
 
