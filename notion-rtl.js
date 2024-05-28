@@ -6,10 +6,8 @@ const observer = new MutationObserver((mutations) => {
       (n) => n.nodeType === Node.TEXT_NODE
     );
 
-    if (newNodes.length > 0) {
-      for (let i = 0; i < newNodes.length; i++) {
-        const node = newNodes[i];
-
+    if (newNodes.length) {
+      for (let node of newNodes) {
         const textContent = node.textContent;
         const arabic = /[\u0600-\u06FF]/;
 
